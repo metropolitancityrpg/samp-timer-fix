@@ -1,3 +1,6 @@
+# forked by
+https://github.com/KashCherry/Timer-Fix-plugin
+
 # Timer-Fix-plugin
 This plugin makes timers more accurate. [Topic](https://forum.sa-mp.com/showthread.php?t=650736).
 <br>This plugin is no longer supported.

@@ -1,6 +1,6 @@
 {
-    "user": "KashCherry",
-    "repo": "Timer-Fix-plugin",
+    "user": "metropolitancityrpg",
+    "repo": "samp-timer-fix",
     "resources": [
         {
             "name": "^timerfix-(.+)-win32.zip$",
@@ -18,6 +18,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["KashCherry/Timer-Fix-plugin"]
+        "plugins": ["metropolitancityrpg/samp-timer-fix"]
     }
 }
