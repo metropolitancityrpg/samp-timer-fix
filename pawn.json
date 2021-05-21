@@ -1,17 +1,19 @@
 {
     "user": "metropolitancityrpg",
     "repo": "samp-timer-fix",
-    "include_path": "include",
     "resources": [
         {
             "name": "^timerfix-(.+)-win32.zip$",
             "platform": "windows",
             "archive": true,
+            "includes": [""],
             "plugins": ["timerfix.dll"]
         },
         {
             "name": "^timerfix-(.+)-debian10.tar.gz$",
             "platform": "linux",
+            "archive": true,
+            "includes": [""],
             "plugins": ["timerfix.so"]
         }
     ],
